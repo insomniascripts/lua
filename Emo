@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-FREE-BUNDLES-l-FE-241758"))() task.wait(0.5) loadstring(game:HttpGet("https://raw.githubusercontent.com/InsomniaTrial/Insomnia/refs/heads/main/Auth"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/script-by/Nx-Crazy/refs/heads/main/HoldNigher", true))() task.wait(0.5) loadstring(game:HttpGet("https://raw.githubusercontent.com/InsomniaTrial/Insomnia/refs/heads/main/Auth"))()
